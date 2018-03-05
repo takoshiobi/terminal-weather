@@ -23,6 +23,8 @@ $ weather.py <cityname>
 ```
 
 Here's example for Paris, FR
+
+
 ![demo](https://sun1-4.userapi.com/c840727/v840727958/6247d/_AzzPh0gtg8.jpg)
 
 ### References
