@@ -19,7 +19,7 @@ You can signup for a free API key [on the OWM website](https://home.openweatherm
 ### Run 
 
 ```shell
-$ weather.py <cityname>
+$ python3 weather.py <cityname>
 ```
 
 Here's example for Paris, FR
