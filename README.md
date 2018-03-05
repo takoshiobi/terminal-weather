@@ -25,7 +25,7 @@ $ weather.py <cityname>
 Here's example for Paris, FR
 
 
-![demo](https://sun1-4.userapi.com/c840727/v840727958/6247d/_AzzPh0gtg8.jpg)
+![demo](https://image.ibb.co/dtsmnn/Capture_d_cran_2018_03_06_01_53_08.png)
 
 ### References
 * [OpenWeatherMap website](http://openweathermap.org/)
