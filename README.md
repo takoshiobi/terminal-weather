@@ -27,7 +27,7 @@ $ python3 weather.py <cityname>
 Here's example for Paris, FR and Texas, AU
 
 
-![demo](https://github.com/akinariobi/terminal-weather/img/term.png)
+![demo](https://github.com/akinariobi/terminal-weather/blob/master/img/term.png)
 
 ### References
 * [OpenWeatherMap website](http://openweathermap.org/)
