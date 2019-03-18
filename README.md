@@ -1,7 +1,7 @@
 # terminal-weather
  ⛅☀️⚡🌧 weather client for the terminal
 
-### Installation 
+### Installation
 
 Install with `pip` for your ease:
 
@@ -16,16 +16,18 @@ or make git clone.
 As the OpenWeatherMap API needs a valid API key to allow responses, you must get your own API key and replace "xxx" in `weather.py` (lines 38 & 39) by your API key.
 You can signup for a free API key [on the OWM website](https://home.openweathermap.org/users/sign_up)
 
-### Run 
+### Run
+
+MacOS:
 
 ```shell
-$ weather.py <cityname>
+$ python3 weather.py <cityname>
 ```
 
-Here's example for Paris, FR
+Here's example for Paris, FR and Texas, AU
 
 
-![demo](https://sun1-4.userapi.com/c840727/v840727958/6247d/_AzzPh0gtg8.jpg)
+![demo](https://github.com/akinariobi/terminal-weather/img/term.png)
 
 ### References
 * [OpenWeatherMap website](http://openweathermap.org/)
